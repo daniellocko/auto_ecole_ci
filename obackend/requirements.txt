@@ -1,0 +1,17 @@
+Django
+django-cors-headers
+django-crontab
+django-filter
+django-rest-swagger
+djangorestframework
+djangorestframework-simplejwt
+markdown
+django-sendsms
+pyotp
+django-otp
+boto3
+celery
+pika
+mysqlclient
+pillow
+requests
